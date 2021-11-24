@@ -1,0 +1,6 @@
+Pinagem ESP32
+https://capsistema.com.br/index.php/2020/03/22/referencia-de-pinagem-do-esp32-quais-pinos-do-gpio-voce-deve-usar/
+
+Exemplo com o OLED + ESP32
+http://www.esp32learning.com/code/esp32-and-oled-display-example.php
+
